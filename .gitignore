@@ -1,0 +1,8 @@
+.settings*
+*.log*
+.cache
+target
+*.iml
+*.idea
+/build
+.gradle
