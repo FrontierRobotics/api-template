@@ -6,8 +6,13 @@ This is a Gradle project. To import it into IntelliJ follow these steps:
 2. Click the `+` button.
 3. Find the `build.gradle` file, and click OK.
 
-To build it on the command line simply run
+To build it on the command line simply run:
 
 ```
 $ gradle build
+```
+
+To package it up for deployment run:
+```
+$ gradle distTar
 ```
